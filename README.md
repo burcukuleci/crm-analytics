@@ -196,7 +196,7 @@ plot_period_transactions(bgf)
 plt.show()
 ```
 
-![Transaction](file:///C:/Users/esrae/Downloads/Figure_1.png)
+![Transaction](figure1.png)
 
 3. Expected Average Profit with Gamma-Gamma Model
 

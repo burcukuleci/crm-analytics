@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 Customer Relationship Management (CRM) Analytics deals with analyzing customer data, getting to know customers better, dividing customers into segments, making segment-specific business decisions, and developing customer churn models to retain customers.
 
-**Key Performance Indicator (KPI)**s are mathematical indicators used to evaluate the performance of companies, departments or employees.
+**Key Performance Indicators (KPI)** are mathematical indicators used to evaluate the performance of companies, departments or employees.
 
 - **Customer Acquisition Rate**: The percentage of customers acquired in a given time period.
 - **Customer Retention Rate**: The percentage of customers who remain loyal over a specific period.

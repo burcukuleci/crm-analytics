@@ -1,13 +1,13 @@
-# CUSTOMER RELATIONSHIP MANAGEMENT ANALYTICS
+# CUSTOMER RELATIONSHIP MANAGEMENT (CRM) ANALYTICS
 
-This repository contains Python code files for model development for each recommendation model type and three recommendation system projects.
+This repository contains Python code files for CRM analytics and case studies.
 
-***Note: The codes are from the Miuul 'Recommendation Systems' course. Some parts of the codes are modified by me.***
+***Note: The codes are from the Miuul 'CRM Analytics' course. Some parts of the codes are modified by me.***
 
-- Clone the 'Recommendation Systems' repository using your terminal or git bash.
+- Clone the 'crm-analytics' repository using your terminal or git bash.
 
 ```
-git clone https://github.com/burcukuleci/
+git clone https://github.com/burcukuleci/crm-analytics
 
 ```
 - Download all required packages using the requirements.txt file by running the below command in the terminal.
@@ -16,9 +16,7 @@ git clone https://github.com/burcukuleci/
 pip install -r requirements.txt
 ```
 
-- All required data files (except 'rating.csv' and 'armut.csv') are in *datasets* directory. 
-
-***Note: This README.md file provides short information for each Python file. Separate markdown files explain the code and the project in detail. Please refer to those markdown files for detailed information.***
+- All required data files (except 'flo_data_20K.csv') are in *datasets* directory. 
 
 **OUTLINE**
 
@@ -27,9 +25,8 @@ pip install -r requirements.txt
 3. [Customer Lifetime Value](#customer-lifetime-value)
 4. [CLTV Prediction](#cltv-prediction)
 5. [Case Study: FLO CLTV Prediction](#case-study-flo-cltv-prediction)
-6. [](#)
 
---
+---
 
 Customer Relationship Management (CRM) Analytics deals with analyzing customer data, getting to know customers better, dividing customers into segments, making segment-specific business decisions, and developing customer churn models to retain customers.
 
@@ -64,7 +61,6 @@ RFM stands for *Recency*, *Frequency*, and *Monetary* value, and it's a customer
 Customer segmentation is dividing customers into groups based on their purchasing habits. Different business strategies can be developed specific to groups. 
 
 *Segmentation steps*: 
-
 
 1. Calculate RFM metrics.
 

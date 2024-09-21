@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 1. [RFM Analytics](#rfm-analytics)
 2. [Case Study: FLO RFM Analytics](#case-study-flo-rfm-analytics)
-3. [Customer Lifetime Value](#customer-lifetime-value)
+3. [Customer Lifetime Value (CLV)](#customer-lifetime-value-clv)
 4. [CLTV Prediction](#cltv-prediction)
 5. [Case Study: FLO CLTV Prediction](#case-study-flo-clv-prediction)
 
